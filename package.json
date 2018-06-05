@@ -1,0 +1,35 @@
+{
+	"name": "express-api-tools-runner",
+	"version": "1.0.6",
+	"description": "Pragmatic runner to start a simple api server with frontend.",
+	"main": "launcher.js",
+	"author": {
+		"name": "Bas Biesheuvel",
+		"email": "athaphian@gmail.com"
+	},
+	"contributors": [
+		{
+			"name": "Bas Biesheuvel",
+			"email": "athaphian@gmail.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com:Athaphian/express-api-tools-runner.git"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/Athaphian/express-api-tools-runnter/blob/master/LICENSE-MIT"
+		}
+	],
+	"dependencies": {
+		"express-api-tools": "1.0.6",
+		"express": "^4.16.2"
+	},
+	"keywords": [
+		"express",
+		"api",
+		"tools"
+	]
+}
