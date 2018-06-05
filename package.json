@@ -1,6 +1,6 @@
 {
 	"name": "express-api-tools-runner",
-	"version": "1.0.6",
+	"version": "0.1.0",
 	"description": "Pragmatic runner to start a simple api server with frontend.",
 	"main": "launcher.js",
 	"author": {
